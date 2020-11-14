@@ -1,0 +1,70 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: #E74C3C;
+}
+
+body{
+    font-family: 'Xanh Mono', monospace;
+    font-size: 24px;
+    font-weight: bold;
+}
+.titulo{
+    text-align: center;
+}
+
+header{
+    width: 100%;
+    margin-top: 20px;
+}
+ 
+nav ul li{
+    float: left;
+    line-height: 10px;
+    padding: 20px 70px;
+    margin-bottom: 20px;
+    list-style: none;
+}
+
+.clearfix {
+    clear: both;
+}
+h1, h2, h3, h4{
+    font-family: 'Dancing Script', cursive;
+}
+
+#contener {
+    text-align: justify;
+        float: left;
+        width: 65%;
+        padding: 10px;
+        margin: 20px;
+}
+
+#subtitulo{
+    float: right;
+    position: absolute;
+    right: 100px;
+    top:300px;
+}
+
+#footer{
+    margin-left: 20px;
+    margin-bottom: 15px;
+    text-align: center;
+    
+}
+
+.img01{
+    float: left;
+    margin: 10px;
+    width: 400px;
+
+}
+
+.img02 {
+    float: right;
+    margin: 10px;
+    width: 400px;
+}
+
